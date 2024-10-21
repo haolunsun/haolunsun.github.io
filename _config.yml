@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Haolun Sun's Academic Personal Page"
 title_separator          : "-"
-name                     : "Haolun Sun"
-description              : &description "personal description"
+name                     : &name "Haolun Sun"
+description              : &description "Haolun Sun's Academic Personal Page"
 url                      : https://haolunsun.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Haolun Sun"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in East Asian Studies with interest in contemporary Chinese Buddhism from anthropological perspectives"
+  bio              : "PhD student in East Asian Studies"
   location         : "China/Germany"
   employer         : "Freie Universität Berlin"
   uri              : # URL
